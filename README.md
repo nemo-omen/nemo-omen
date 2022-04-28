@@ -1,4 +1,4 @@
-![./dish.jpg](An old rusted sattelite dish, aimed toward an overcast sky, darkened by foreboding clouds.)
+![An old rusted sattelite dish, aimed toward an overcast sky, darkened by foreboding clouds.](https://github.com/nemo-omen/nemo-omen/dish.jpg)
 
 ### Hi! I'm Jeff Caldwell.
 

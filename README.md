@@ -1,3 +1,5 @@
+![./dish.jpg](An old rusted sattelite dish, aimed toward an overcast sky, darkened by foreboding clouds.)
+
 ### Hi! I'm Jeff Caldwell.
 
 I'm a computer science student, a frontend web developer, and a small-city digital journalist.

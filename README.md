@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi! I'm Jeff Caldwell.
+
+I'm a computer science student, a frontend web developer, and a small-city digital journalist.
+
+I love making websites and I'm constantly learning. Currently, I'm most interested in accessibility and IndieWeb. I think the principles of each can help to make the web a better place for everyone.
+
+#### Elsewhere on the web
+
+[trainingmontage.dev](https://trainingmontage.dev)
+
+[Mastodon](https://indieweb.social/@trainingmontage)
+
+[Twitter](https://twitter.com/trainingm0ntage)
+
+[LinkedIn](https://www.linkedin.com/in/jeff-caldwell-4424181a/)
 
 <!--
 **nemo-omen/nemo-omen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,9 @@ I love making websites and I'm constantly learning. Currently, I'm most interest
 
 [trainingmontage.dev](https://trainingmontage.dev)
 
-[Mastodon](https://indieweb.social/@trainingmontage)
+<a rel="nofollow me" class="Link--primary" href="https://hachyderm.io/@trainingmontage">Mastodon</a>
+
+<!-- [Mastodon](https://indieweb.social/@trainingmontage) -->
 
 [Twitter](https://twitter.com/trainingm0ntage)
 

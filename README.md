@@ -2,9 +2,8 @@
 
 ### Hi! I'm Jeff Caldwell.
 
-I'm a computer science student, a frontend web developer, and a small-city digital journalist.
+I’m a driven software developer who, after finishing his BSc in Computer Science, is changing careers after many years in journalism. I’m proficient in front-end development, love learning and solving new problems, and have worked in every part of the stack.
 
-I love making websites and I'm constantly learning. Currently, I'm most interested in accessibility and IndieWeb. I think the principles of each can help to make the web a better place for everyone.
 
 #### Elsewhere on the web
 
@@ -12,23 +11,4 @@ I love making websites and I'm constantly learning. Currently, I'm most interest
 
 <a rel="nofollow me" class="Link--primary" href="https://hachyderm.io/@trainingmontage">Mastodon</a>
 
-<!-- [Mastodon](https://indieweb.social/@trainingmontage) -->
-
-[Twitter](https://twitter.com/trainingm0ntage)
-
-[LinkedIn](https://www.linkedin.com/in/jeff-caldwell-4424181a/)
-
-<!--
-**nemo-omen/nemo-omen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/jeff-d-caldwell)

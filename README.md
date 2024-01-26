@@ -1,5 +1,3 @@
-![An old rusted sattelite dish, aimed toward an overcast sky, darkened by foreboding clouds.](https://raw.githubusercontent.com/nemo-omen/nemo-omen/main/dish.jpg)
-
 ### Hi! I'm Jeff Caldwell.
 
 I’m a driven software developer who, after finishing his BSc in Computer Science, is changing careers after many years in journalism. I’m proficient in front-end development, love learning and solving new problems, and have worked in every part of the stack.

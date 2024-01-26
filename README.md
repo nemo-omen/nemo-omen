@@ -5,7 +5,7 @@ I’m a driven software developer who, after finishing his BSc in Computer Scien
 
 #### Elsewhere on the web
 
-[trainingmontage.dev](https://trainingmontage.dev)
+[JeffCaldwell.is](https://jeffcaldwell.is)
 
 <a rel="nofollow me" class="Link--primary" href="https://hachyderm.io/@trainingmontage">Mastodon</a>
 
